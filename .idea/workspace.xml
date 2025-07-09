@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6382f15e-ee6b-4992-a071-6ea37583ec99" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/recognition_identity_finetuned.ipynb" afterDir="false" />
+    <list default="true" id="6382f15e-ee6b-4992-a071-6ea37583ec99" name="Changes" comment="updated codes and folders">
+      <change afterPath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recognition_identify_finetuned_save_results.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_splitter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_splitter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fine_tune_combine.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fine_tune_combine.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fine_tune_identity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fine_tune_identity.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_paraphrased_prompts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/generate_paraphrased_prompts.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recognition_identity_finetuned.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recognition_identity_finetuned.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,7 @@
       <workItem from="1751417455347" duration="204000" />
       <workItem from="1751417757607" duration="4672000" />
       <workItem from="1751428183770" duration="2460000" />
-      <workItem from="1751854079361" duration="5015000" />
+      <workItem from="1751854079361" duration="28943000" />
     </task>
     <task id="LOCAL-00001" summary="multi-task recognition">
       <option name="closed" value="true" />
@@ -175,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751272091656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated codes and folders">
+      <option name="closed" value="true" />
+      <created>1751876961373</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751876961373</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +201,7 @@
     <MESSAGE value="multi-task recognition" />
     <MESSAGE value="delete models" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="updated codes and folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated codes and folders" />
   </component>
 </project>
