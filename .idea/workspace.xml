@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6382f15e-ee6b-4992-a071-6ea37583ec99" name="Changes" comment="updated codes and folders">
-      <change afterPath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recognition_identify_finetuned_save_results.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_valid_test_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition_identity_finetuned.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recognition_identity_finetuned.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recognition.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1751417455347" duration="204000" />
       <workItem from="1751417757607" duration="4672000" />
       <workItem from="1751428183770" duration="2460000" />
-      <workItem from="1751854079361" duration="28943000" />
+      <workItem from="1751854079361" duration="47177000" />
     </task>
     <task id="LOCAL-00001" summary="multi-task recognition">
       <option name="closed" value="true" />
@@ -180,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751876961373</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated codes and folders">
+      <option name="closed" value="true" />
+      <created>1752040895828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752040895828</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
