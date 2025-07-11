@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6382f15e-ee6b-4992-a071-6ea37583ec99" name="Changes" comment="updated codes and folders">
-      <change afterPath="$PROJECT_DIR$/train_valid_test_analysis.ipynb" afterDir="false" />
+    <list default="true" id="6382f15e-ee6b-4992-a071-6ea37583ec99" name="Changes" comment="updated codes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fine_tune_identity.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fine_tune_identity.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recog_identity_finetune_save_dominance_thres.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_valid_test_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/train_valid_test_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Jupyter Settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/yehte/Downloads/Ye Htet/Projects/TikTok/zero_shot_face_recognition/fourth_discussion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Jupyter Settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +91,7 @@
       <workItem from="1751417455347" duration="204000" />
       <workItem from="1751417757607" duration="4672000" />
       <workItem from="1751428183770" duration="2460000" />
-      <workItem from="1751854079361" duration="47177000" />
+      <workItem from="1751854079361" duration="63741000" />
     </task>
     <task id="LOCAL-00001" summary="multi-task recognition">
       <option name="closed" value="true" />
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752040895828</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updated codes">
+      <option name="closed" value="true" />
+      <created>1752131987720</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752131987720</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +219,7 @@
     <MESSAGE value="delete models" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="updated codes and folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated codes and folders" />
+    <MESSAGE value="updated codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated codes" />
   </component>
 </project>
